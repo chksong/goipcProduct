@@ -1,0 +1,40 @@
+
+{% extends 'product/base.html' %}
+
+
+{% block css %}
+<link rel="stylesheet" href="/static/css/phone.css">
+{% endblock %}
+
+{% block title %}手机号码输入{% endblock %}
+
+
+
+{% block  content %}
+<div class="container">
+
+
+<!-- 车牌号输入区域 -->
+<div class="phoneinput">
+	<div class="row justify-content-md-center">
+		<div class="col-lg-6">
+			<form action="phone" method="post">
+		        {% csrf_token %}
+		        {{ form }}
+    		</form>
+		</div>
+	</div>
+</div>
+    
+<div></div>
+
+
+</div>
+
+
+
+{% endblock %}
+
+
+{% block jsblock %}
+{% endblock %}
