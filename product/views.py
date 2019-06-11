@@ -5,4 +5,4 @@ from django.shortcuts import render
 
 # 画表格
 def index(request):
-    return render(request, 'product/product.html')
+    return render(request, 'product/excelPro.html')
