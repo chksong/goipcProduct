@@ -7,13 +7,12 @@
     <link rel="stylesheet" href="/static/css/iaski.css" >
 
     <title>{% block title %}默认标题{% endblock %} </title>
-    <meta content="{% block keywords %}数字能里，数字八星，数字奇门，手机号分析{% endblock %}" name="Keywords">
+    <meta content="{% block keywords %}研华工控产品查询{% endblock %}" name="Keywords">
     {% block css %}   {% endblock %}
 </head>
 <body>
 
-<!--导航栏-->
-{% include 'product/nav.html' %}
+
 
 <!--内容区域-->
 <div id='main'>
@@ -23,8 +22,7 @@
 </div>
 
 
-<!-- 底部栏 -->
-{% include 'product/footer.html' %}
+
 
 <!--连接Jquery代码-->
 <script src="/static/js/jquery-3.3.1.min.js"></script>
@@ -37,15 +35,15 @@
 
 
 <!-- 百度统计的代码 -->
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?f8bcfe83e1a95d6d4842e5826b401831";
-  var s = document.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
+<!--<script>-->
+<!--var _hmt = _hmt || [];-->
+<!--(function() {-->
+  <!--var hm = document.createElement("script");-->
+  <!--hm.src = "https://hm.baidu.com/hm.js?f8bcfe83e1a95d6d4842e5826b401831";-->
+  <!--var s = document.getElementsByTagName("script")[0];-->
+  <!--s.parentNode.insertBefore(hm, s);-->
+<!--})();-->
+<!--</script>-->
 
 
 </body>
