@@ -5,7 +5,7 @@ from django.shortcuts import render
 
 # 画表格
 def index(request):
-    return render(request, 'product/excelPro.html')
+    return render(request, 'product/excelPro2.html')
 
 
 def searchProduct(request,slug=None):
