@@ -515,7 +515,7 @@ td
 	 }
 .xl78
 	{ 
-	text-align:center;
+	
 	 
 	 }
 .xl79
@@ -563,11 +563,7 @@ td
 	text-align:center;
 	 
 	 }
-.xl95
-	{ 
-	text-align:center;
-	 
-	 }
+ 
 .xl96
 	{ 
 	text-align:center;
@@ -609,3 +605,34 @@ td
 .xl110
 	{ 
 	}
+
+
+.left_1 {
+	text-align:center;
+	border-left:1pt solid ;
+	border-right:1pt solid ;
+	border-bottom:1pt solid ;
+}
+
+.left_2 {
+	border-right:1pt solid ;
+	border-bottom:1pt solid ;
+}
+
+.tbl_mid{
+	border-right:1pt solid ;
+	border-bottom:1pt solid ; 
+	text-align:center;
+}
+
+.right_2 {
+	border-right:1pt solid ;
+	border-bottom:1pt solid ;
+	text-align:center;
+}
+
+.right_1 {
+	border-right:1pt solid ;
+	border-bottom:1pt solid ;
+	text-align:center;
+}
