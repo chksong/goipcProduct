@@ -152,8 +152,7 @@
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	 
-	border:.5pt solid #808080;
+	  
 	 }
 .style31
 	{ 
@@ -213,10 +212,7 @@
 	text-decoration:none;
 	font-family:宋体;
 	 
-	border-left:none;
-	border-top:.5pt solid #333399;
-	border-right:none;
-	border-bottom:2.0pt double #333399;
+	 
 	 }
 .style37
 	{ 
@@ -256,10 +252,7 @@
 	text-decoration:none;
 	font-family:宋体;
 	 
-	border-left:none;
-	border-top:none;
-	border-right:none;
-	border-bottom:1.5pt solid #333399;
+	 
 	 }
 .style41
 	{color:#808080;
@@ -347,7 +340,7 @@
 .style52
 	{ 
 	background:#FFFFCC;
-	border:.5pt solid #C0C0C0;
+	 
 	 }
 .style53
 	{ 
@@ -397,10 +390,7 @@
 	text-decoration:none;
 	font-family:宋体;
 	 
-	border-left:none;
-	border-top:none;
-	border-right:none;
-	border-bottom:1.5pt solid #C0C0C0;
+	 
 	 }
 .style59
 	{ 
@@ -421,10 +411,7 @@
 	text-decoration:none;
 	font-family:宋体;
 	 
-	border-left:none;
-	border-top:none;
-	border-right:none;
-	border-bottom:1.0pt solid #0066CC;
+	
 	 }
 .style61
 	{ 
@@ -456,10 +443,7 @@
 	text-decoration:none;
 	font-family:宋体;
 	 
-	border-left:none;
-	border-top:none;
-	border-right:none;
-	border-bottom:2.0pt double #FF9900;
+	
 	 }
 td
 	{ 
@@ -478,7 +462,7 @@ td
 	text-decoration:none;
 	font-family:宋体;
 	 
-	border:none;
+	
 	 }
 .xl65
 	{ 
@@ -496,28 +480,24 @@ td
 .xl68
 	{ 
 	 
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl69
 	{ 
 	text-align:center;
 	font-size:14.0pt;
 	 
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl70
 	{ 
 	text-align:left;
 	font-size:14.0pt;
 	 
-	border-left:.5pt solid #000000;
-	border-top:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	}
 .xl72
 	{ 
 	text-align:left;
 	 
-	border-left:.5pt solid #000000;
-	border-top:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	}
 .xl74
 	{ 
 	text-align:center;
@@ -526,122 +506,106 @@ td
 	{ 
 	text-align:center;
 	 
-	border:.5pt solid #000000;}
+	 }
 .xl76
 	{ 
-	border:.5pt solid #000000;}
+	 }
 .xl77
 	{ 
-	border-left:.5pt solid #000000;
-	border-right:.5pt solid #000000;}
+	 }
 .xl78
 	{ 
 	text-align:center;
 	 
-	border:.5pt solid #000000;}
+	 }
 .xl79
 	{ 
-	border-left:.5pt solid #000000;
-	border-right:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl80
 	{ 
-	border-left:.5pt solid #000000;}
+	 }
 .xl82
 	{ 
 	text-align:center;
 	 
-	border-left:.5pt solid #000000;}
+	 }
 .xl83
 	{ 
 	text-align:center;
 	font-size:14.0pt;
 	font-weight:700;
 	 
-	border-left:.5pt solid #000000;}
+	 }
 .xl86
 	{ 
-	border-left:.5pt solid #000000;}
+	 }
 .xl87
 	{ 
 	text-align:left;
 	 
-	border-left:.5pt solid #000000;}
+	 }
 .xl89
 	{ 
 	text-align:left;
 	 
-	border-left:.5pt solid #000000;}
+	 }
 .xl91
 	{ 
 	 
-	border-left:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl92
 	{ 
 	text-align:center;
 	 
-	border:.5pt solid #000000;}
+	 }
 .xl94
 	{ 
 	text-align:center;
 	 
-	border-left:.5pt solid #000000;
-	border-top:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl95
 	{ 
 	text-align:center;
 	 
-	border-left:.5pt solid #000000;
-	border-right:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl96
 	{ 
 	text-align:center;
 	 
-	border-left:.5pt solid #000000;
-	border-right:.5pt solid #000000;}
+	 }
 .xl97
 	{ 
 	text-align:center;
 	 
-	border-left:.5pt solid #000000;
-	border-top:.5pt solid #000000;
-	border-right:.5pt solid #000000;}
+	 }
 .xl98
 	{ 
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl99
 	{ 
-	border-top:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl101
 	{ 
 	text-align:center;
 	 
-	border-top:.5pt solid #000000;
-	border-right:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl103
 	{ 
 	text-align:center;
 	 
-	border-right:.5pt solid #000000;}
+	 }
 .xl104
 	{ 
 	text-align:center;
 	 
-	border-right:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	 }
 .xl105
 	{ 
 	 
-	border-right:.5pt solid #000000;}
+	}
 .xl106
 	{ 
-	border-right:.5pt solid #000000;}
+	 }
 .xl110
 	{ 
-	border-right:.5pt solid #000000;
-	border-bottom:.5pt solid #000000;}
+	}
